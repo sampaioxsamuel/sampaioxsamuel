@@ -1,6 +1,5 @@
-# hi :)
+# hi
 
-currently learning about design systems and front-end architecture
 
 #### languages
 
@@ -21,7 +20,6 @@ currently learning about design systems and front-end architecture
 ![docker](https://img.shields.io/static/v1?label=&message=docker&color=151515&style=flat-square)
 ![vscode](https://img.shields.io/static/v1?label=&message=vscode&color=151515&style=flat-square)
 ![zsh](https://img.shields.io/static/v1?label=&message=zsh&color=151515&style=flat-square)
-![alacritty](https://img.shields.io/static/v1?label=&message=alacritty&color=151515&style=flat-square)
 
 ![me](giphy.gif)
 
