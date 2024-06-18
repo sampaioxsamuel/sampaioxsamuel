@@ -1,25 +1,7 @@
-# hi
-
-
-#### languages
-
-javascript
-typescript
-
-#### frameworks and libraries
-
-reactjs
-nextjs
-jest
-vue
-svelte
-
-#### tools
-
-git
-docker
-vscode
-zsh
-
-![me](giphy.gif)
-
+<p align="center">
+  <samp>
+    <a href="https://notsamuel.dev">website</a> • 
+    <a href="https://www.linkedin.com/in/sampaioxsamuel">linkedin</a> • 
+    <a href="https://www.last.fm/user/smnnn">lastfm</a> 
+  </samp>
+</p>
